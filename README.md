@@ -1,6 +1,6 @@
 hello-edinburgh
 ===============
 
-Patchwork homework
+Patchwork Homework
 
-This is a better README now. More words are better. 
+This is a much better README now. More words are better. 
